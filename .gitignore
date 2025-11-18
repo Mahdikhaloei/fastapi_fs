@@ -2,3 +2,13 @@
 __pycache__
 .RoadMap.me
 .env
+.vscode
+.DS_Store
+.idea
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.log
+*.sqlite3
